@@ -1,0 +1,1 @@
+console.log("Seasonal Shopper content script loaded.");
